@@ -38,4 +38,4 @@ Module 21 Challenge
   * used different combinations of activations functions, including tanh, relu, selu,elu, sigmoid.
   
 - Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
-        * this model has a fairly decent accuracy percentage by not ideal. For determining the likelihood of success for chairities receiving money, it would be better to find a model with a slightly better accuracy rating. This may include adding some data back into the dataframe, or using different activation functions.
+  * this model has a fairly decent accuracy percentage by not ideal. For determining the likelihood of success for chairities receiving money, it would be better to find a model with a slightly better accuracy rating. This may include adding some data back into the dataframe, or using different activation functions.
