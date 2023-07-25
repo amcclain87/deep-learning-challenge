@@ -8,8 +8,8 @@ Module 21 Challenge
 - Results: Using bulleted lists and images to support your answers, address the following questions:
 
 * Data Preprocessing
-        * What variable(s) are the target(s) for your model?
-                * the variable IS_SCCUSSFUL
+  * What variable(s) are the target(s) for your model?
+    * the variable IS_SCCUSSFUL
         * What variable(s) are the features for your model?
                 * status
                 * ASK_AMT
