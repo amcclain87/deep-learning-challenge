@@ -3,7 +3,7 @@ Module 21 Challenge
 
 
 - Overview of the analysis: Explain the purpose of this analysis.
-The purpose of this analysis is to determine the charactistics that determine whether a non-profit will successfully use the grant money awarded.
+  The purpose of this analysis is to determine the charactistics that determine whether a non-profit will successfully use the grant money awarded.
 
 - Results: Using bulleted lists and images to support your answers, address the following questions:
 
